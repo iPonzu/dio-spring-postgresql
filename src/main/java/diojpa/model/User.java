@@ -49,7 +49,7 @@ public class User {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", username='" + username + '\'' +
-                ", password='" + password + '\'' 
+                ", password='" + password + '\'' +
                 '}';
                 
     }
